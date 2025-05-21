@@ -1,6 +1,6 @@
 1. 소프트웨어 사용 사례: 날씨 검색 및 음악 검색 후 음악 재생
     1-1. 시퀀스다이아그램:
-
+file:///C:/Users/User/Desktop/%EC%8B%9C%ED%80%80%EC%8A%A4%EB%8B%A4%EC%9D%B4%EC%95%84%EA%B7%B8%EB%9E%A8.pdf
     1-2.코드내용
 (url)
 public class mobile { public static void main(String[] args)} String tool='검색
