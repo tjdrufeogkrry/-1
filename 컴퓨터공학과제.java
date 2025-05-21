@@ -1,3 +1,7 @@
+1. 소프트웨어 사용 사례: 날씨 검색 및 음악 검색 후 음악 재생
+    1-1. 시퀀스다이아그램:
+
+    1-2.코드내용
 (url)
 public class mobile { public static void main(String[] args)} String tool='검색
 print.ln("무엇을 검색하시겠습니까?)
